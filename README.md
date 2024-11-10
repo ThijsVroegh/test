@@ -9,6 +9,8 @@
 
 _Get started using GitHub in less than an hour._
 
+This is a text to check whether qodo merge actually works correctly with a new secret from openAI
+
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
