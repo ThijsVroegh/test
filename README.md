@@ -9,6 +9,7 @@
 
 _Get started using GitHub in less than an hour._
 
+doing yet agian another check to get qodo merge working
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
